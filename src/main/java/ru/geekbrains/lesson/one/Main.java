@@ -51,7 +51,7 @@ public class Main {
     //region Задание № 6
     public static boolean doSixthQuestion (int a){
         if (a > 0){
-            return (a > 0);
+            return true;
         }
         else {
             return false;
